@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Jeltok88/cinema-searsh/internal/app/server"
+	"github.com/Jeltok88/cinema-search/internal/app/server"
 )
 
 func main() {
