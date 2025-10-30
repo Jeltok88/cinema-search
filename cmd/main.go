@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Jeltok88/calendar/StradaGo/cinema-searsh/internal/app/server"
+	"github.com/Jeltok88/cinema-searsh/internal/app/server"
 )
 
 func main() {
