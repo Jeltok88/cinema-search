@@ -116,7 +116,7 @@ type Genre struct {
 }
 
 func (g *Genre) Validate() error {
-	if strings.TrimSpace(d.Title) == "" {
+	if strings.TrimSpace(g.Title) == "" {
 		return errors.New("Название жанра не может быть пустым")
 	}
 	return nil
